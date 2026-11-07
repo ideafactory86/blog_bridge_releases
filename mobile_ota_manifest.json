@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 110,
-  "apkVersionName": "1.1.0",
+  "apkVersionCode": 111,
+  "apkVersionName": "1.1.1",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/blog_bridge_releases/main/blog_place_booster_m.apk",
-  "hotpatchVersion": 110,
-  "hotpatchNote": "블로그플레이스 부스터M v1.1 (24시간 포그라운드 서비스 + 스마트에디터 ONE 위젯 브릿지 + Referer 보존 + 4대 페르소나 + 자동업데이트)",
+  "hotpatchVersion": 111,
+  "hotpatchNote": "블로그플레이스 부스터M v1.1.1 (초고속 점프 스크롤 제거 + 실제 사람 시선 속도 저속 사인곡선 가감속 스크롤 엔진 적용)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
