@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 112,
-  "apkVersionName": "1.1.2",
+  "apkVersionCode": 120,
+  "apkVersionName": "1.2.0",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/blog_bridge_releases/main/blog_place_booster_m.apk",
-  "hotpatchVersion": 112,
-  "hotpatchNote": "블로그플레이스 부스터M v1.1.2 (영수증 캡차/보안문자 4단계 실시간 감지 + 허수 타수 집계 원천 차단 + 오염 쿠키 자동 초기화 패치)",
+  "hotpatchVersion": 120,
+  "hotpatchNote": "블로그플레이스 부스터M v1.2.0 아르곤 에디션 (10대 핵심 스텔스 규칙 + 비로그인 오가닉 진입 + 20ms 코사인 저속 스크롤 + 물리 하드웨어 터치 + 6중 캡차 실시간 워치독 + 1:1 상위노출 컨설팅 안내 탑재)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
