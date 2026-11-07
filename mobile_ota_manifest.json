@@ -1,9 +1,9 @@
 {
   "apkVersionCode": 110,
   "apkVersionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/blog_bridge_releases/main/아이디어팩토리_블로그플레이스_모바일부스터_v1.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/blog_bridge_releases/main/blog_place_booster_m.apk",
   "hotpatchVersion": 110,
-  "hotpatchNote": "블로그플레이스 부스터M v1.1.0 - 스마트에디터 ONE 위젯 매칭 + Referer 보존 + 4대 페르소나 체류",
+  "hotpatchNote": "블로그플레이스 부스터M v1.1 (24시간 포그라운드 서비스 + 스마트에디터 ONE 위젯 브릿지 + Referer 보존 + 4대 페르소나 + 자동업데이트)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
