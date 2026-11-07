@@ -1,0 +1,9 @@
+{
+  "apkVersionCode": 110,
+  "apkVersionName": "1.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/blog_bridge_releases/main/아이디어팩토리_블로그플레이스_모바일부스터_v1.1.apk",
+  "hotpatchVersion": 110,
+  "hotpatchNote": "블로그플레이스 부스터M v1.1.0 - 스마트에디터 ONE 위젯 매칭 + Referer 보존 + 4대 페르소나 체류",
+  "hotpatchInitJs": "",
+  "hotpatchEngageJs": ""
+}
